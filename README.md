@@ -1,1 +1,2 @@
+[![My Skills](https://skillicons.dev/icons?i=c,js,laravel,html,css,bootstrap,linux,ubuntu,vim,docker,github,gitlab,vscode,notion)](https://skillicons.dev)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkura37&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
