@@ -1,5 +1,3 @@
-System Engineer/Software Engineer
+System Engineer / Software Engineer
 
 blog: https://tkura.pages.dev/
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tkura37&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
